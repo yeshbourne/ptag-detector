@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\exported-models",
+    "\\exported-models\\ptag-detector-model",
+    "\\exported-models\\ptag-detector-model\\ssd_mobilenet_v2_fpnlite_320x320"
+  ],
+  "PreviewInSolutionExplorer": false
+}
