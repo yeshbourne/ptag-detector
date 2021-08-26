@@ -1,0 +1,26 @@
+<annotation>
+	<folder>temp</folder>
+	<filename>128.jpg</filename>
+	<path>D:\Workspace\TensorFlow-2.0\workspace\training\images\temp\128.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ptag</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>789</ymin>
+			<xmax>280</xmax>
+			<ymax>942</ymax>
+		</bndbox>
+	</object>
+</annotation>

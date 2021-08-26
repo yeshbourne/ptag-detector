@@ -1,5 +1,4 @@
 TensorFlow-2.0/addons/
-TensorFlow-2.0/workspace/training/images/
 TensorFlow-2.0/workspace/training/images/image-annotated/
 TensorFlow-2.0/workspace/training/images/image-annotated/temp/
 TensorFlow-2.0/workspace/training/pre-trained-model/ssd_mobilenet_v1_fpn_640x640_coco17_tpu-8/
